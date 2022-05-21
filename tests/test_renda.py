@@ -19,7 +19,7 @@ class TestRenda(unittest.TestCase):
     
     def test_percentual_renda_media(self):
         mes1 = [('Trabalho 1', 5000), ('Trabalho 2', 300), ('Trabalho 3', 200)]
-        mes2= [('Trabalho 1', 2000), ('Trabalho 2', 100), ('Trabalho 3', 1000)]
+        mes2 = [('Trabalho 1', 2000), ('Trabalho 2', 100), ('Trabalho 3', 1000)]
         mes3 = [('Trabalho 1', 4000), ('Trabalho 2', 0), ('Trabalho 3', 300)]
         # Trabalho 1 = 11000
         # Trabalho 2 = 400
